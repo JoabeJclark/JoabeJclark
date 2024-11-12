@@ -9,11 +9,9 @@ IA Generativa ElevenLabs para clonagem e sintetização de voz;
 Software Descript para edição e montagem do podcast.
 ## 🧐 Processo de Criação
 "Copilot" foi utilizado para desenvolver o roteiro e aprimorar a narrativa do podcast. "ElevenLabs" ajudou a criar uma voz sintética envolvente para a narração, enquanto o "Descript" foi essencial para a edição final
-Apresente os resultados do seu projeto
+## 🚀 Resultados
+O episódio é uma introdução acessível e de facil entendimento sobre alimentação de cães de raças pequenas
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-<!---
-JoabeJclark/JoabeJclark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ause its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
